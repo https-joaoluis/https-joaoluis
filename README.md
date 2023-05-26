@@ -1,4 +1,4 @@
-### Hi there , eu sou o  João Luís
+### Olá, eu sou o  João Luís
 
 <!--
 **https-joaoluis/https-joaoluis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
